@@ -221,23 +221,26 @@
 }
 
 @media (max-width: 768px) {
+    .schools-container {
+        padding: 1rem;
+    }
+
+    .description-section {
+        padding: 1rem;
+    }
+
     .schools-grid {
-        padding: 2rem 1.5rem;
+        padding: 1rem;
     }
 
     .schools-grid::before {
-        left: 20px;
+        display: none;
     }
 
     .school-card {
-        margin-left: 35px;
-        padding: 1.5rem;
-    }
-
-    .school-card::before {
-        left: -25px;
-        width: 18px;
-        height: 18px;
+        margin-left: 0;
+        padding: 1rem;
+        width: 100%;
     }
 
     .meta-info {
