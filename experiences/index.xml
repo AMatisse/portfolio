@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Expériences professionnelles on Portfolio - AMatisse</title>
+    <link>https://amatisse.github.io/experiences/</link>
+    <description>Recent content in Expériences professionnelles on Portfolio - AMatisse</description>
+    <image>
+      <title>Portfolio - AMatisse</title>
+      <url>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <atom:link href="https://amatisse.github.io/experiences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android Developer</title>
+      <link>https://amatisse.github.io/experiences/flexfuel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/experiences/flexfuel/</guid>
+      <description>5-month mission at FlexFuel - Development of an engine decarbonization application</description>
+    </item>
+    <item>
+      <title>Android Developer</title>
+      <link>https://amatisse.github.io/experiences/jouve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/experiences/jouve/</guid>
+      <description>3-month internship at Jouve - Development of a demonstration Android application</description>
+    </item>
+    <item>
+      <title>Front-End Developer</title>
+      <link>https://amatisse.github.io/experiences/apichantier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/experiences/apichantier/</guid>
+      <description>2-month mission on the ApiChantier project - Development of a mobile application for tradespeople</description>
+    </item>
+    <item>
+      <title>Front-End Developer</title>
+      <link>https://amatisse.github.io/experiences/decayeux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/experiences/decayeux/</guid>
+      <description>2-month mission at Decayeux - Development of a mailbox unlocking application</description>
+    </item>
+    <item>
+      <title>Front-End Developer</title>
+      <link>https://amatisse.github.io/experiences/leroy_merlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/experiences/leroy_merlin/</guid>
+      <description>20-month mission at Leroy Merlin - Development of the Leroy Merlin Studio platform</description>
+    </item>
+    <item>
+      <title>Fullstack Developer</title>
+      <link>https://amatisse.github.io/experiences/aluk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/experiences/aluk/</guid>
+      <description>One-year mission at AluK - Development of a B2C commercial extranet</description>
+    </item>
+    <item>
+      <title>Lead Fullstack Developer</title>
+      <link>https://amatisse.github.io/experiences/force_femmes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/experiences/force_femmes/</guid>
+      <description>18-month mission at Force Femmes - Development of a workshop management extranet</description>
+    </item>
+    <item>
+      <title>Web Developer</title>
+      <link>https://amatisse.github.io/experiences/dreal_bretagne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/experiences/dreal_bretagne/</guid>
+      <description>2-month internship at DREAL Bretagne - Modernization of web applications</description>
+    </item>
+  </channel>
+</rss>

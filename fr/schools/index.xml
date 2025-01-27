@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Écoles on Portfolio - AMatisse</title>
+    <link>https://amatisse.github.io/fr/schools/</link>
+    <description>Recent content in Écoles on Portfolio - AMatisse</description>
+    <image>
+      <title>Portfolio - AMatisse</title>
+      <url>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://amatisse.github.io/fr/schools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://amatisse.github.io/fr/schools/epitech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/schools/epitech/</guid>
+      <description>&lt;p&gt;Durant mon master, j&amp;rsquo;ai travaillé sur différents projets dans plusieurs domaines :&lt;/p&gt;
+&lt;h3 id=&#34;développement-web&#34;&gt;Développement Web&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Time Manager&lt;/strong&gt; : Création d&amp;rsquo;une application de gestion avec Vue.js, Elixir Phoenix, PostgreSQL, Docker, Ionic et Kubernetes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Count Of Money&lt;/strong&gt; : Développement d&amp;rsquo;une plateforme de cryptomonnaies avec Vue.js, Node.js Express, MongoDB et Docker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Epic Road Trip&lt;/strong&gt; : Création d&amp;rsquo;un site web de planification de voyages avec React, Node.js, MongoDB, Redux, Cypress et Mocha&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projet de Fin d&amp;rsquo;Études&lt;/strong&gt; : Implémentation d&amp;rsquo;une place de marché de produits artisanaux locaux avec React Next.js, Nest.js, PostgreSQL et Docker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ia--big-data&#34;&gt;IA &amp;amp; Big Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zoidberg 2&lt;/strong&gt; : Développement d&amp;rsquo;une analyse d&amp;rsquo;images radiographiques pour la détection de pneumonie avec NumPy, Pandas, TensorFlow, Matplotlib et Scikit-learn&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Travel Order Resolver&lt;/strong&gt; : Construction d&amp;rsquo;un système d&amp;rsquo;optimisation d&amp;rsquo;itinéraire par commande vocale avec NumPy, SciPy, Geograpy et spaCy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recommander&lt;/strong&gt; : Création d&amp;rsquo;un système de recommandation de produits avec Pandas, Seaborn, Matplotlib et clustering K-means&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;administration-réseau--système&#34;&gt;Administration Réseau &amp;amp; Système&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;DevOps&lt;/strong&gt; : Mise en place d&amp;rsquo;une infrastructure d&amp;rsquo;hébergement mutualisée avec GitLab CI/CD, Debian et Ansible&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://amatisse.github.io/fr/schools/univ-nantes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/schools/univ-nantes/</guid>
+      <description>&lt;p&gt;Formation de deux ans en informatique, axée sur les fondamentaux du développement logiciel :&lt;/p&gt;
+&lt;h3 id=&#34;compétences-acquises&#34;&gt;Compétences Acquises&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithmique et structures de données&lt;/li&gt;
+&lt;li&gt;Programmation orientée objet avec Java&lt;/li&gt;
+&lt;li&gt;Développement web (HTML, CSS, JavaScript, PHP)&lt;/li&gt;
+&lt;li&gt;Bases de données relationnelles et SQL&lt;/li&gt;
+&lt;li&gt;Architecture des systèmes d&amp;rsquo;exploitation&lt;/li&gt;
+&lt;li&gt;Méthodologies de gestion de projet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;projets-réalisés&#34;&gt;Projets Réalisés&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Développement d&amp;rsquo;applications Java desktop&lt;/li&gt;
+&lt;li&gt;Création de sites web dynamiques avec PHP et MySQL&lt;/li&gt;
+&lt;li&gt;Projets de programmation système en C&lt;/li&gt;
+&lt;li&gt;Conception et modélisation UML&lt;/li&gt;
+&lt;li&gt;Travaux pratiques en réseau et systèmes&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;formation-théorique&#34;&gt;Formation Théorique&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Mathématiques pour l&amp;rsquo;informatique&lt;/li&gt;
+&lt;li&gt;Architecture des ordinateurs&lt;/li&gt;
+&lt;li&gt;Analyse et conception de systèmes d&amp;rsquo;information&lt;/li&gt;
+&lt;li&gt;Gestion de bases de données&lt;/li&gt;
+&lt;li&gt;Systèmes et réseaux&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://amatisse.github.io/fr/schools/univ-rennes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/schools/univ-rennes/</guid>
+      <description>&lt;p&gt;Durant ma licence professionnelle en alternance, je me suis spécialisé dans le développement web à travers des projets intensifs :&lt;/p&gt;
+&lt;h3 id=&#34;projets-de-développement-web&#34;&gt;Projets de Développement Web&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Construction d&amp;rsquo;applications web modernes avec React, Vue.js et Angular&lt;/li&gt;
+&lt;li&gt;Développement d&amp;rsquo;APIs REST avec Node.js et PHP&lt;/li&gt;
+&lt;li&gt;Implémentation d&amp;rsquo;interfaces responsive et mobile-first&lt;/li&gt;
+&lt;li&gt;Gestion de bases de données SQL et NoSQL&lt;/li&gt;
+&lt;li&gt;Configuration et Administration de Serveurs&lt;/li&gt;
+&lt;li&gt;Programmation Web côté client et serveur&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;expérience-professionnelle&#34;&gt;Expérience Professionnelle&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Travail en tant que développeur full-stack en environnement professionnel&lt;/li&gt;
+&lt;li&gt;Participation à des cycles complets de projets, de la conception au déploiement&lt;/li&gt;
+&lt;li&gt;Application des méthodologies agiles en situations réelles&lt;/li&gt;
+&lt;li&gt;Acquisition d&amp;rsquo;expérience pratique avec la conteneurisation Docker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;compétences-techniques&#34;&gt;Compétences Techniques&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Frameworks et bibliothèques JavaScript modernes&lt;/li&gt;
+&lt;li&gt;Développement backend et conception d&amp;rsquo;API&lt;/li&gt;
+&lt;li&gt;Développement mobile avec Ionic&lt;/li&gt;
+&lt;li&gt;Gestion de version et développement collaboratif&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;domaines-détudes-additionnels&#34;&gt;Domaines d&amp;rsquo;Études Additionnels&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Design UI/UX et Interaction Homme-Machine&lt;/li&gt;
+&lt;li&gt;Droit du Numérique&lt;/li&gt;
+&lt;li&gt;Gestion de Projet&lt;/li&gt;
+&lt;li&gt;Communication Professionnelle&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

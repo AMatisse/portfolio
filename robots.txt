@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://amatisse.github.io/sitemap.xml

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Expériences professionnelles on Portfolio - AMatisse</title>
+    <link>https://amatisse.github.io/fr/experiences/</link>
+    <description>Recent content in Expériences professionnelles on Portfolio - AMatisse</description>
+    <image>
+      <title>Portfolio - AMatisse</title>
+      <url>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>fr</language>
+    <atom:link href="https://amatisse.github.io/fr/experiences/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Développeur Android</title>
+      <link>https://amatisse.github.io/fr/experiences/flexfuel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/experiences/flexfuel/</guid>
+      <description>Mission de 5 mois chez FlexFuel - Développement d&amp;#39;une application de décalaminage moteur</description>
+    </item>
+    <item>
+      <title>Développeur Android</title>
+      <link>https://amatisse.github.io/fr/experiences/jouve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/experiences/jouve/</guid>
+      <description>Stage de 3 mois chez Jouve - Développement d&amp;#39;une application Android de démonstration</description>
+    </item>
+    <item>
+      <title>Développeur Front-end</title>
+      <link>https://amatisse.github.io/fr/experiences/apichantier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/experiences/apichantier/</guid>
+      <description>Mission de 2 mois sur le projet ApiChantier - Développement d&amp;#39;une application mobile pour artisans</description>
+    </item>
+    <item>
+      <title>Développeur Front-end</title>
+      <link>https://amatisse.github.io/fr/experiences/decayeux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/experiences/decayeux/</guid>
+      <description>Mission de 2 mois chez Decayeux - Développement d&amp;#39;une application de déverrouillage de boîtes aux lettres</description>
+    </item>
+    <item>
+      <title>Développeur Front-end</title>
+      <link>https://amatisse.github.io/fr/experiences/leroy_merlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/experiences/leroy_merlin/</guid>
+      <description>Mission de 20 mois chez Leroy Merlin - Développement de la plateforme Leroy Merlin Studio</description>
+    </item>
+    <item>
+      <title>Développeur Fullstack</title>
+      <link>https://amatisse.github.io/fr/experiences/aluk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/experiences/aluk/</guid>
+      <description>Mission d&amp;#39;un an chez AluK - Développement d&amp;#39;un extranet commercial B2C</description>
+    </item>
+    <item>
+      <title>Développeur Fullstack référent</title>
+      <link>https://amatisse.github.io/fr/experiences/force_femmes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/experiences/force_femmes/</guid>
+      <description>Mission de 18 mois chez Force Femmes - Développement d&amp;#39;un extranet de gestion d&amp;#39;ateliers</description>
+    </item>
+    <item>
+      <title>Développeur web</title>
+      <link>https://amatisse.github.io/fr/experiences/dreal_bretagne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/fr/experiences/dreal_bretagne/</guid>
+      <description>Stage de 2 mois à la DREAL Bretagne - Modernisation d&amp;#39;applications web</description>
+    </item>
+  </channel>
+</rss>

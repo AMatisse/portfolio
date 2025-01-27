@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Schools on Portfolio - AMatisse</title>
+    <link>https://amatisse.github.io/schools/</link>
+    <description>Recent content in Schools on Portfolio - AMatisse</description>
+    <image>
+      <title>Portfolio - AMatisse</title>
+      <url>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://amatisse.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://amatisse.github.io/schools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://amatisse.github.io/schools/epitech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/schools/epitech/</guid>
+      <description>&lt;p&gt;During my master&amp;rsquo;s degree, I worked on various projects across different domains:&lt;/p&gt;
+&lt;h3 id=&#34;web-development&#34;&gt;Web Development&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Time Manager&lt;/strong&gt;: Built a management application using Vue.js, Elixir Phoenix, PostgreSQL, Docker, Ionic, and Kubernetes&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Count Of Money&lt;/strong&gt;: Developed a cryptocurrency platform with Vue.js, Node.js Express, MongoDB, and Docker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Epic Road Trip&lt;/strong&gt;: Created a trip planning website using React, Node.js, MongoDB, Redux, Cypress, and Mocha&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;End Of Study Project&lt;/strong&gt;: Implemented a local handmade products marketplace using React Next.js, Nest.js, PostgreSQL, and Docker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ai--big-data&#34;&gt;AI &amp;amp; Big Data&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Zoidberg 2&lt;/strong&gt;: Developed X-ray image analysis for pneumonia detection using NumPy, Pandas, TensorFlow, Matplotlib, and Scikit-learn&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Travel Order Resolver&lt;/strong&gt;: Built a voice-command route optimization system using NumPy, SciPy, Geograpy, and spaCy&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Recommander&lt;/strong&gt;: Created a product recommendation system using Pandas, Seaborn, Matplotlib, and K-means clustering&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;network--system-administration&#34;&gt;Network &amp;amp; System Administration&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;DevOps&lt;/strong&gt;: Implemented shared hosting infrastructure using GitLab CI/CD, Debian, and Ansible&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://amatisse.github.io/schools/univ-nantes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/schools/univ-nantes/</guid>
+      <description>&lt;p&gt;During my two-year technical degree, I achieved excellent academic results with a final grade of 15.3/20. The program focused on:&lt;/p&gt;
+&lt;h3 id=&#34;first-year---general-it-skills&#34;&gt;First Year - General IT Skills&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Core computer science fundamentals&lt;/li&gt;
+&lt;li&gt;Basic programming concepts and algorithms&lt;/li&gt;
+&lt;li&gt;Network infrastructure and administration&lt;/li&gt;
+&lt;li&gt;Database management systems&lt;/li&gt;
+&lt;li&gt;General subjects (English, Mathematics, Communication)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;second-year---software-development-specialization&#34;&gt;Second Year - Software Development Specialization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Object-oriented programming (Java, C#)&lt;/li&gt;
+&lt;li&gt;Web development (PHP, JavaScript)&lt;/li&gt;
+&lt;li&gt;Database design and SQL&lt;/li&gt;
+&lt;li&gt;Software architecture and design patterns&lt;/li&gt;
+&lt;li&gt;Project management and development methodologies&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://amatisse.github.io/schools/univ-rennes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://amatisse.github.io/schools/univ-rennes/</guid>
+      <description>&lt;p&gt;During my bachelor&amp;rsquo;s degree completed in work-study program, I specialized in web development through intensive projects:&lt;/p&gt;
+&lt;h3 id=&#34;web-development-projects&#34;&gt;Web Development Projects&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Built modern web applications using React, Vue.js, and Angular frameworks&lt;/li&gt;
+&lt;li&gt;Developed REST APIs with Node.js and PHP&lt;/li&gt;
+&lt;li&gt;Implemented responsive and mobile-first interfaces&lt;/li&gt;
+&lt;li&gt;Managed databases with SQL and NoSQL solutions&lt;/li&gt;
+&lt;li&gt;Server Configuration and Administration&lt;/li&gt;
+&lt;li&gt;Client and Server-side Web Programming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Worked as a full-stack developer in a professional environment&lt;/li&gt;
+&lt;li&gt;Participated in complete project lifecycles from design to deployment&lt;/li&gt;
+&lt;li&gt;Applied agile methodologies in real-world scenarios&lt;/li&gt;
+&lt;li&gt;Gained hands-on experience with Docker containerization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-skills&#34;&gt;Technical Skills&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Modern JavaScript frameworks and libraries&lt;/li&gt;
+&lt;li&gt;Backend development and API design&lt;/li&gt;
+&lt;li&gt;Mobile development with Ionic&lt;/li&gt;
+&lt;li&gt;Version control and collaborative development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;additional-areas-of-study&#34;&gt;Additional Areas of Study&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;UI/UX Design and Human-Computer Interaction&lt;/li&gt;
+&lt;li&gt;French Digital Law&lt;/li&gt;
+&lt;li&gt;Project Management&lt;/li&gt;
+&lt;li&gt;Professional Communication&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
